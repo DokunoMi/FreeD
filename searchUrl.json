@@ -32,7 +32,7 @@
     {
       "id": 1,
       "name": "yh",
-      "url": "https://apicdn.vipm3u8.com/xml",
+      "url": "https://apicdn.vipm3u8.com/xml/index/qq",
       "cate": "综艺,3&&动漫,4&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&国产动漫,21&&日本动漫,22",
       "click": true
     },
@@ -45,22 +45,22 @@
     },
     {
       "id": 1,
-      "name": "39影视",
-      "url": "https://www.39kan.com/api.php/provide/vod/at/xml/",
+      "name": "yhqy",
+      "url": "https://apicdn.vipm3u8.com/xml/index/qiyi",
       "cate": "动漫,4&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16",
       "click": true
     },
     {
       "id": 1,
-      "name": "1886资源",
-      "url": "http://cj.1886zy.co/inc/api.php",
+      "name": "yhyk",
+      "url": "https://apicdn.vipm3u8.com/xml/index/youku",
       "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&国产剧,12&&韩国剧,14&&美国剧,15&&综艺,3&&动漫,4",
       "click": true
     },
     {
       "id": 1,
-      "name": "天空云",
-      "url": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/",
+      "name": "yhmg",
+      "url": "https://apicdn.vipm3u8.com/xml/index/mgtv",
       "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&国产剧,13&&韩国剧,26&&美国剧,16&&日本剧,24&&大陆综艺,33&&日韩综艺,34&&国产动漫,28&&日本动漫,29&&欧美动漫,30",
       "click": true
     },
